@@ -15,9 +15,9 @@ int main()
     	for(n=0;n<i;n++)
     	{
     	   if(str[i]==unq[n])
-    	     {
-    		   cnt++;
-		     }
+    	          {
+    		     cnt++;
+		  }
 	    }
 		if(cnt==0)
 		   {
